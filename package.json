@@ -1,0 +1,14 @@
+{
+	"name": "ticketinator",
+	"author": "alaanvv",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "node index.mjs",
+		"dev": "node --watch index.mjs"
+	},
+	"dependencies": {
+		"discord.js": "^14.7.1",
+		"enmap": "^6.0.5",
+		"openai": "^5.12.2"
+	}
+}
